@@ -1,0 +1,19 @@
+body {
+    background-color: orange;
+    color: red;
+}
+
+#tabla1 {
+    width: 800px;
+    border-spacing: 0px;
+    background-color: #ffecc0;
+}
+
+.width150 {
+    width: 150px;
+    text-align: center;
+}
+
+.igazitkozep {
+    text-align: center;
+}
